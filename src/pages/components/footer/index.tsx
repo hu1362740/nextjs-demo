@@ -3,7 +3,7 @@ import { FC } from "react";
 import Image from "next/image";
 import publicLogo from "../../../../public/public_logo.png";
 import styles from "./styles.module.css";
-// import cName from "classnames";
+import cName from "classnames";
 
 interface ILink {
   label: string;
